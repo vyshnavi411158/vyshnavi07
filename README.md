@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Frontend & Python Projects<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>🤝 I’m looking for help with React and Backend Development<br><br>🌱 I’m currently learning React, JavaScript, DBMS & OS<br><br>💬 Ask me about Python, HTML, CSS and JavaScript<br><br>⚡ Fun fact: I love turning ideas into real projects 
+# About Me:
+ I’m currently working on Frontend & Python Projects<br><br> I’m looking to collaborate on Web Development Projects<br><br> I’m looking for help with React and Backend Development<br><br> I’m currently learning React, JavaScript, DBMS & OS<br><br>💬 Ask me about Python, HTML, CSS and JavaScript<br><br> Fun fact: I love turning ideas into real projects 
 
 
 ## 🌐 Socials:
